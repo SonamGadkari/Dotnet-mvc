@@ -15,8 +15,8 @@ namespace UnitTests
         public void SimpleInterest_float()
         {
 
-            var expected1 = 0;
-            var principle = 2;
+            var expected1 = 9.2;
+            var principle = 200;
             var time = 2; ;
             var rate = 2.3;
 
@@ -28,5 +28,6 @@ namespace UnitTests
         {
             return (principle * time * interest / 100);
         }
+
     }
 }
