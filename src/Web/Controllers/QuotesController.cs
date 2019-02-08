@@ -18,6 +18,10 @@ namespace mvc2.Controllers
         {
              return Content("Hey! I am text or Content");
         }
+        public IActionResult HTML()
+        {
+             return Content("<html><p>This is HTML content</p><h1>Centered Heading</h1></html>");
+        }
         
         public IActionResult Views()
         {
