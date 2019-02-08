@@ -16,7 +16,7 @@ namespace mvc2.Controllers
         }
         public IActionResult ShowText()
         {
-             return Content("Returns the text or Content");
+             return Content("Hey! I am text or Content");
         }
         
         public IActionResult Welcome()
@@ -29,7 +29,7 @@ namespace mvc2.Controllers
         }
         public JsonResult Get()
         {
-            return Json(_authorRepository.List());
+            return Json(new {Text="JSON data",Description="JSON value"});
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

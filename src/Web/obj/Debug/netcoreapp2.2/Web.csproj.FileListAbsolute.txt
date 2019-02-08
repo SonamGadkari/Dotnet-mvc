@@ -28,3 +28,11 @@ C:\Users\S533490\Documents\44663\Dotnet-mvc\src\Web\obj\Debug\netcoreapp2.2\Web.
 C:\Users\S533490\Documents\44663\Dotnet-mvc\src\Web\obj\Debug\netcoreapp2.2\Web.dll
 C:\Users\S533490\Documents\44663\Dotnet-mvc\src\Web\obj\Debug\netcoreapp2.2\Web.pdb
 C:\Users\S533490\Documents\44663\Dotnet-mvc\src\Web\obj\Debug\netcoreapp2.2\Web.csproj.CopyComplete
+C:\Users\S533490\Documents\44663\Dotnet-mvc\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Welcome.g.cshtml.cs
+C:\Users\S533490\Documents\44663\Dotnet-mvc\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Quotes\HTML.g.cshtml.cs
+C:\Users\S533490\Documents\44663\Dotnet-mvc\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Quotes\Index.g.cshtml.cs
+C:\Users\S533490\Documents\44663\Dotnet-mvc\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Quotes\JSON.g.cshtml.cs
+C:\Users\S533490\Documents\44663\Dotnet-mvc\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Quotes\Privacy.g.cshtml.cs
+C:\Users\S533490\Documents\44663\Dotnet-mvc\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Quotes\Text.g.cshtml.cs
+C:\Users\S533490\Documents\44663\Dotnet-mvc\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Quotes\Views.g.cshtml.cs
+C:\Users\S533490\Documents\44663\Dotnet-mvc\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Quotes\Welcome.g.cshtml.cs
