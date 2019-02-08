@@ -14,12 +14,12 @@ namespace mvc2.Controllers
         {
             return View();
         }
-        public IActionResult ShowText()
+        public IActionResult Text()
         {
              return Content("Hey! I am text or Content");
         }
         
-        public IActionResult Welcome()
+        public IActionResult Views()
         {
             return View();
         }
@@ -27,7 +27,7 @@ namespace mvc2.Controllers
         {
             return View();
         }
-        public JsonResult Get()
+        public JsonResult JSON()
         {
             return Json(new {Text="JSON data",Description="JSON value"});
         }
