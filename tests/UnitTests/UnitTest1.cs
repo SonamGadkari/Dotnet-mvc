@@ -39,7 +39,7 @@ namespace UnitTests
             Assert.Equal(expected1, actual1);
 
         }
-        
+        [Fact]
         double CompoundInterest(float principle, float time,double interest)
         {
             return ((1+(principle * time * interest / 100));
