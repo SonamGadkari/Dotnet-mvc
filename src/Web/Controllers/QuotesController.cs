@@ -15,8 +15,8 @@ namespace mvc2.Controllers
             return View();
         }
         public IActionResult Text()
-        {
-             return Content("Hey! I am text or Content");
+        {			
+             return Content("A calm and modest life brings more happiness than the pursuit of success combined with constant restlessness.--Albert Einstein");
         }
         public IActionResult HTML()
         {
