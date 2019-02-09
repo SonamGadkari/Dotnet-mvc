@@ -20,7 +20,7 @@ namespace mvc2.Controllers
         }
         public IActionResult HTML()
         {
-             return Content("<html><p>This is HTML content</p><h1>Centered Heading</h1></html>");
+             return Content("<html><p>I can calculate the motion of heavenly bodies, but not the madness of people.--Newton</p><h1>Centered Heading</h1></html>");
         }
         
         public IActionResult Views()
@@ -33,7 +33,7 @@ namespace mvc2.Controllers
         }
         public JsonResult JSON()
         {
-            return Json(new {Text="JSON data",Description="JSON value"});
+            return Json(new {Text="Thomas Alva Edison",Description="I have not failed. I've just found 10,000 ways that won't work to invent a bulb"});
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
